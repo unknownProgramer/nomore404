@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "ecopeace7",
-    "password": "Ecopeace820429",
-    "database": "ecopeace7",
-    "host": "ecopeace.cafe24app.com",
+    "username": "b72a0a5b9fbca0",
+    "password": "cccb05b1",
+    "database": "heroku_25081d3e7482650",
+    "host": "us-cdbr-east-06.cleardb.net",
     "dialect": "mysql"
   },
   "test": {
